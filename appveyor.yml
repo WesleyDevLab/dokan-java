@@ -3,6 +3,7 @@ os: Windows Server 2012 R2
 environment:
   DOKAN_HOME: C:\Program Files (x86)\Dokan\DokanLibrary
   JAVA_HOME: C:\Program Files (x86)\Java\jdk1.8.0
+  VisualStudioVersion: 12.0
   CI_DEPLOY_USERNAME:
     secure: KcJMy3M1M+wPExeKn0lvLA==
   CI_DEPLOY_PASSWORD:
